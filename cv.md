@@ -34,5 +34,10 @@ function generatePassword(length) {
 	return password;
 }
 ```
+## Education
 
+Bachelor's degree (2020) - Moscow Polytech University - Administration in technical systems
 
+## English
+
+A2 - B1
