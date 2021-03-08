@@ -20,7 +20,7 @@
 * BEM
 * Javascript
 * Git
-* Kanban | Trello
+* Kanban / Trello
 
 ## Code example
 ```
